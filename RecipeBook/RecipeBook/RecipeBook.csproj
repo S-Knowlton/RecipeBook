@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-RecipeBook-FDA7DCF3-2678-4039-A3D3-6752285F4C5D</UserSecretsId>
+    <UserSecretsId>aspnet-RecipeBook-982925AF-ECF2-437A-8010-6AFC5E2C1CA6</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
